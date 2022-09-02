@@ -5,16 +5,16 @@ require_relative "lib/ruby_web3/version"
 Gem::Specification.new do |spec|
   spec.name = "ruby_web3"
   spec.version = RubyWeb3::VERSION
-  spec.authors = ["JigmeT123"]
+  spec.authors = ["Jigme Tashi Namgyal"]
   spec.email = ["tashinamgyaljigme@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
+  spec.summary = "(WIP) Gem similar to web3.js"
+  spec.description = "(WIP) Gem similar to web3.js"
   # spec.homepage = "https://github.com/jigmetnamgyal/ruby_web3"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
+  # spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
   # spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/jigmetnamgyal/ruby_web3"
